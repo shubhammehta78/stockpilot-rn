@@ -1,0 +1,1 @@
+export const colors={bg:"#0B0D0F",surface:"#13171B",text:"#F4F6F8",muted:"#8D98A3",accent:"#65D38A",danger:"#F06D7A",border:"#252C32"};export const spacing={sm:10,md:16,lg:24,xl:32};
